@@ -1,0 +1,12 @@
+{
+  "appId": "com.marybethsfinds.giftkeeper",
+  "appName": "Gift Keeper",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never"
+  },
+  "server": {
+    "url": "https://giftkeepersecret.com",
+    "cleartext": false
+  }
+}
